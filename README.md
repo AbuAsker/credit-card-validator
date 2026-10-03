@@ -32,7 +32,7 @@ A detailed explanation of the code, with execution traces, is available in
 | Member | GitHub | Contribution |
 |--------|--------|--------------|
 | Naif Adel Alghaith | [@username](https://github.com/username) | isValid, sumOfOddPlace |
-| Hamzah Adel Abu-Askar | [@AbuAsker](https://github.com/AbuAsker) | getDigit |
+| Hamzah Adel Abu-Askar | [@AbuAsker](https://github.com/AbuAsker) | getPrefix, input error handling, result printing, report |
 | Abdulelah Mohammed Fatani | [@username](https://github.com/username) | sumOfDoubleEvenPlace |
-| Fahad Abdullah Alosaimi | [@username](https://github.com/username) | prefixMatched, getSize |
-| Abdulrahman Basurrah | [@username](https://github.com/username) | getPrefix, input error handling, result printing, report |
+| Fahad Abdullah Alosaimi | [@username](https://github.com/username) | getDigit |
+| Abdulrahman Basurrah | [@username](https://github.com/username) | prefixMatched, getSize |
